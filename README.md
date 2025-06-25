@@ -36,7 +36,7 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/emmanuelidiahi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://ng.linkedin.com/in/emmanuel-idiahi-6a681a333)
 [![X (Twitter)](https://img.shields.io/badge/X-black?style=flat-square&logo=twitter)](https://x.com/Reteecent)
 
 ---
