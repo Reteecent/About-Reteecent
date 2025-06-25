@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🧑‍💻 I'm a passionate Frontend Web Developer and an undergraduate at the University of Benin, Benin City, Nigeria.
-- 🎨 I believe coding is all about bringing ideas to life—turning imagination into beautiful, interactive web experiences.
+- 🎨 I believe frontend development is all about bringing ideas to life—turning imagination into beautiful, interactive web experiences.
 - 🌱 Currently honing my skills in **React**, **TypeScript**, and modern web technologies.
 
 ---
